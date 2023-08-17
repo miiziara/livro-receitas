@@ -1,5 +1,5 @@
-Livro de receitas 
+# Livro de receitas 
 
-Ol·! Bem vindo ao meu livro de receitas
+Ol√°! Bem vindo ao meu livro de receitas
 
-Strogonoff de frango
+  - Strogonoff de frango
